@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #242323;
+}
+
+h1 {
+    color: #0059ff;
+}
+
+h2 {
+    color: #0026ff;
+}
+
+p {
+    color: #ffffff;
+    
+    p, h3 {
+        text-align: left;
+    } 
+    
+    .imagem {
+        display: block; 
+        max-width: 300px; 
+        width: 50%; 
+        height: auto; 
+        border-radius: 10px; 
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+        margin: 10px auto; 
+    }
+
+}
